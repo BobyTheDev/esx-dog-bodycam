@@ -32,7 +32,5 @@ ui_page {
 dependencies {
     'es_extended',
     'esx_policejob',
-    'esx_identity',
-    'esx_skin',
     'mythic_notify'
 }
